@@ -7,7 +7,7 @@ GPU: The CPU's iGPU for now
 Motherboard: Asus ROG Strix X570-F 
 RAM: Corsair Vengeance RGB Pro 32GB (2x16GB @3600MHz) CL18
 NVME Drive: Samsung 970 Evo Plus 1TB 
-HDD: Western Digital Green 2TB Internal HDD
+HDD: Western Digital Green 2TB Internal
 SSD: Lite-On 256GB
 Case: Corsair iCUE 4000X RGB Mid Tower
 Power Supply: Corsair RM 2019 Gold 850 Watt
