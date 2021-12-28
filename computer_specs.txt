@@ -1,15 +1,16 @@
 Computer Specifications
 
-OS: Windows 11 Pro
+OS: Windows 11 Pro and Linux Ubuntu (Dual Boot)
 CPU: Ryzen 7 5700G
 CPU Cooler: Corsair iCUE H100i Liquid AIO
 GPU: The CPU's iGPU for now
 Motherboard: Asus ROG Strix X570-F 
 RAM: Corsair Vengeance RGB Pro 32GB (2x16GB @3600MHz) CL18
-C Drive: Samsung 970 Evo Plus 1TB NVME SSD
-D Drive: Western Digital Blue 2TB Internal HDD
+NVME Drive: Samsung 970 Evo Plus 1TB 
+HDD: Western Digital Green 2TB Internal HDD
+SSD: Lite-On 256GB
 Case: Corsair iCUE 4000X RGB Mid Tower
-PSU: Corsair RM 2019 Gold 850 Watt
+Power Supply: Corsair RM 2019 Gold 850 Watt
 
 I also own a laptop which is used for quick additions in a script or writing code when travelling.
 
